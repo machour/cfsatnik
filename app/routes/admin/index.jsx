@@ -1,4 +1,7 @@
-import { loader, ListEntries } from "./$cursor";
+import { loader }, ListEntries from "./$cursor";
 
-export { loader };
+export const { 
+  loader 
+};
+
 export default ListEntries;
